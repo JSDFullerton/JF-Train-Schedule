@@ -1,0 +1,28 @@
+
+body {
+	background-image: url(../images/HarryPotter1.jpg);
+}
+
+
+th {
+	font-weight: bold;
+}
+
+td, h1 {
+	font-family: 'Abril Fatface', cursive;
+	
+}
+
+label {
+	font-family: 'Abril Fatface', cursive;
+}
+
+.logo {
+	height: 100px;
+	display: block;
+	margin: auto;
+}
+
+.jumbotron {
+	height: 280px;
+}
